@@ -1,0 +1,97 @@
+/* this is a cascading style sheet for the main html page */
+
+
+.boxed
+{
+	width: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.alfa
+{
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+#Charlie
+{
+	
+	margin: 12px 0;
+	color : black;
+	text-align: center
+	
+}
+
+
+h1
+{
+	color : red;
+}
+
+h2
+{
+	text-align : center;
+}
+
+body
+{
+	text-align : left;
+	font-size : 18pt;
+	line-height : 14pt;
+	color : white;
+	background-color : skyblue;
+	font-family : font-family: "Courier New", Monospace;
+	background-image: url("doraemon.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+li
+{
+	
+  margin: 10px 0;
+  
+}
+
+.bravo
+{
+	color : yellow;
+	text-align : left;
+}
+
+.alfa
+{
+	color : rgb(205,92,92);
+}
+
+h2
+{
+	color : orange;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.foxtrot
+{
+	margin: 12px 0;
+	color : black;
+	text-align: center
+}
+
+ol
+{
+	color : red;
+}
+
+#hotel
+{
+	color : green;
+}
+
+.list
+{
+	color : black;
+}
